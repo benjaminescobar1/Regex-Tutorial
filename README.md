@@ -8,7 +8,7 @@
   - [Tests](#tests)
   - [Questions](#questions)
   - [Gist](#Gist)
-  
+  - [Screenshot](#Screenshot)
 
 
   ## Description:
@@ -35,3 +35,8 @@
 
   ## Questions:
   Any questions reach out to bescobar1992@gmail.com or benjaminescobar1 on github.
+
+  ## Screenshot:
+  ![regex-match email](https://github.com/benjaminescobar1/Regex-Tutorial/assets/135399618/5a659da3-6e94-42a0-80f3-c7f8d41e6708)
+
+  
