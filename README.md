@@ -12,7 +12,8 @@
 
 
   ## Description:
-  The description of this assignment was to look up a regex or regular expression, give a tutorial on the regex and create a gist. The regex I chose to give a tutorial on is for match an email: /^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/.
+  The description of this assignment was to look up a regex or regular expression, give a tutorial on the regex and create a gist. The regex I chose to give a tutorial on is for match an email: 
+  /^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/.
 
 
   ## Installation:
@@ -28,7 +29,7 @@
   N/A
 
   ## License
-  MIT. Link to license document ![License: MIT](https://opensource.org/licenses/MIT)
+  MIT License
 
   ## Gist
   https://gist.github.com/benjaminescobar1/4b2e4017e6ccc29da4c088599f4907a1
