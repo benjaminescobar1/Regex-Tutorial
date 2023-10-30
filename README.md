@@ -16,7 +16,7 @@
 
 
   ## Installation:
-  we need to open terminal, run npm install inquirer, then run node index.js. This will give the user a series of questions to answer that'll be used when the readme file is generated.
+  N/A
 
   ## Usage:
   The usage of this project is to allow users to visit the public gist created on github. Allowing users to read the tutorial and learn more about the regex of match an email.
